@@ -1,0 +1,27 @@
+{
+  "name": "alepacheco.me",
+  "version": "1.0.0",
+  "description": "Personal web",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alepacheco/alepacheco.me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alepacheco/alepacheco.me/issues"
+  },
+  "homepage": "https://github.com/alepacheco/alepacheco.me#readme",
+  "dependencies": {
+    "next": "^9.0.5",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
